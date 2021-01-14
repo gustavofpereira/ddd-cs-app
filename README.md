@@ -1,3 +1,16 @@
+<h1 align="center">
+:large_orange_diamond: Instagram Interface: Recreating :large_orange_diamond:
+</h1>
+
+<h2 align="center">
+  Bootcamp Decola Dev Avanade 2021 by <a href=https://digitalinnovation.one/>Digital Innovation One</a>
+</h2>
+
+<p>
+This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s home interface.
+</p>
+
+
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
 
 # What is Aurora project?
@@ -104,3 +117,7 @@ See the project in [Azure](http://aurora-project.azurewebsites.net/swagger/index
 
 ## About:
 The Aurora project was developed by [Alex Alves](https://www.linkedin.com/in/alexalvess/).
+
+<p align="right">
+    <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
+</p>
