@@ -1,5 +1,5 @@
 <h1 align="center">
-:large_orange_diamond: Instagram Interface: Recreating :large_orange_diamond:
+:large_orange_diamond: Developing your application with C# using DDD :large_orange_diamond:
 </h1>
 
 <h2 align="center">
@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s home interface.
+This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn/improve DDD (Domain-Driven Design) skills. The task is to re-aarrange the class/project`s folders.
 </p>
 
 
