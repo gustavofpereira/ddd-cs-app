@@ -12,7 +12,7 @@ This repository was created as part of bootcamp "Decola Dev <a href=https://www.
 
 ## :globe_with_meridians: Source
   
-Heroku was used to publis
+
 
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
 
