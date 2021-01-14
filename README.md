@@ -7,8 +7,10 @@
 </h2>
 
 <p>
-This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn/improve DDD (Domain-Driven Design) skills. The task is to re-aarrange the class/project`s folders.
+This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn/improve DDD (Domain-Driven Design) skills. The task is to re-arrange the classroom/project`s folders.
 </p>
+
+
 
 
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
